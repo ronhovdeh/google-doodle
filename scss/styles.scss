@@ -1,32 +1,42 @@
 // Grand Central Station
 
+// Grand Central Station
+
 @import 'google-homepage';
+body {
+    background: white;
+}
+
 #stage {
-  background:grey;
+    background: white;
 }
 
-// First Frame
-.G{
-    opacity: .9;
-    transform: scale(.35) rotate(0);
-    width: 40%;
-    
-    transition: transform .9s;
-}
-
-// Last Frame
-img:hover {
-    opacity: 5;
-    transform: scale(1.5) rotate(360deg);
-}
 
 // First Frame
 .G {
-transform: translateY(65px) translateX(-350px);
+    transform: translateY(-50px);
+    height: 85px;
+    
 }
 
-// Last Frame
-.line:hover {
-    stroke: red;
+.O {
+    transform: translateY(-180px);
+    height: 85px;
+}
+
+.O2 {
+    transform: translateY(-180px);
+    height: 90px;
+}
+
+
+.g2 {
+    transform: translateX(-160px);
+    height: 100px;
+}
+
+.l {
+    transform: translateY(-200px)
+    height: 100px;
 }
 
