@@ -5,19 +5,13 @@ body{
 }
 
 #stage {
-    background: white;
+    background-image:url(http://thepiercecountytribune.com/page/content.detail/id/510774/Happy-Syttende-Mai-.html?nav=5003)
 }
 
-img{
-margin: 1em;
-  width: 80%;
-  margin-left:5%;
-  z-index: -1;
-  position: relative;
-}
+
 // First Frame
 .a {
-    transform: translateY(60px) translateX(300px);
+    transform: translateY(70px) translateX(300px);
     height: 15px;
     
 }
