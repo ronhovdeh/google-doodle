@@ -2,11 +2,10 @@
 
 ## Brainstorm Ideas
 
-* ABC
-* XYZ
+May 17th, Norwegian independence day
+Halloween
 
 
 ## Content Doodle
-
-Your content goes here. 
-![Google Doodle](https://www.google.com/logos/2012/d4g_poland12-hp.jpg)
+Colors:
+Red, Blue, white
