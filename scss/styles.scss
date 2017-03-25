@@ -8,11 +8,17 @@ body{
     background: white;
 }
 
-
+img{
+margin: 1em;
+  width: 80%;
+  margin-left:5%;
+  z-index: -1;
+  position: relative;
+}
 // First Frame
 .a {
-    transform: translateY(50px);
-    height: 0px;
+    transform: translateY(60px) translateX(300px);
+    height: 15px;
     
 }
 
