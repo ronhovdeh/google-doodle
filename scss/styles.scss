@@ -1,10 +1,7 @@
-// Grand Central Station
-
-// Grand Central Station
-
 @import 'google-homepage';
-body {
-    background: white;
+
+body{
+  background:white;
 }
 
 #stage {
@@ -14,33 +11,30 @@ body {
 
 // First Frame
 .G {
-    transform: translateY(-280px);
-    height: 85px;
+    transform: translateY(50px) translateX(-98px);
+    height: 180px;
     
 }
 
 .O {
-    transform: translateY(-180px);
+    transform: translateY(-190px) translateX(-2px);
     height: 85px;
 }
 
 .O2 {
-    transform: translateY(-180px);
-    height: 90px;
+    transform: translateY(-190px)
+    height: 85px;
 }
 
 
-.g2 {
-    transform: translateX(-160px);
-    height: 100px;
+.nob {
+    transform: translateY(-179px);
+  height: 95px;
+  
 }
 
 .l {
-    transform: translateY(-200px)
-    height: 90px;
+ transform: translateY(50px) translateX(-300x);
+    height: 180px;
 }
 
-e {
-transform: translateY(-180px);
-    height: 15px;
-}
