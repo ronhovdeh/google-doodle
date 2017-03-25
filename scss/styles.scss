@@ -10,31 +10,35 @@ body{
 
 
 // First Frame
-.G {
-    transform: translateY(50px) translateX(-98px);
-    height: 180px;
+.a {
+    transform: translateY(50px);
+    height: 0px;
     
 }
 
-.O {
-    transform: translateY(-190px) translateX(-2px);
+.b {
+    transform: translateY(50px);
     height: 85px;
 }
 
-.O2 {
-    transform: translateY(-190px)
+.c {
+    transform: translateY(50px)
     height: 85px;
 }
 
 
-.nob {
-    transform: translateY(-179px);
+.d {
+    transform: translateY(50px);
   height: 95px;
   
 }
 
-.l {
+.e {
  transform: translateY(50px) translateX(-300x);
     height: 180px;
 }
+.f {
+  transform: translateY(50px);
+  height: 95px;
 
+}
